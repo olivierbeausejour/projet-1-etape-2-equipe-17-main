@@ -4,7 +4,7 @@ import ca.ulaval.glo3004.domain.contact.CarteDeBanqueConjoints;
 import ca.ulaval.glo3004.domain.contact.CompteEnBanque;
 
 /**
- * Project setup without using DI or spring
+ * Project setup without using DI or spring 
  */
 @SuppressWarnings("all")
 public class EvBatteriesMain {
